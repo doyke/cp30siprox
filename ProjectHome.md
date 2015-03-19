@@ -1,0 +1,1 @@
+The SIP Proxy server written in Java. Use www.cafesip.org Jiplet Container Architecture. It can be embedded with Python Script to maximize potentials
